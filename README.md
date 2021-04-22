@@ -13,10 +13,10 @@ R1,R2                      | 240 Ohm              |   2    |             |
 R3,R4                      | 10K Ohm              |   2    |             |
 R5                         | 1K  Ohm              |   1    |             |
 R6                         | 100K Ohm             |   1    |             |
-C1, ..., C10               | 100n                 |  10    |             |
-SW1, ..., SW7              | Taster               |   1    |  Aliexpress (https://de.aliexpress.com/item/32660690016.html?spm=a2g0s.9042311.0.0.27424c4dqj9wVN) |
+C1, ..., C10               | 100n                 |   10   |             |
+SW1, ..., SW7              | Taster               |   7    |             |
 U1                         | Atmega 644P-AU       |   1    |             |
-U2                         | CC1101               |   1    |     Ebay (https://www.ebay.at/itm/1-2-5PCS-CC1101-868MHZ-Kabellos-Modul-Long-Distance-Transmission-Antenne-1-8V/322983173720)    |
+U2                         | CC1101               |   1    |             |
 U3                         | SN74LVC1T45DBV       |   1    |             |
 Q1                         | IRLML9301            |   1    |             |
 D1                         | SMD Led 0805 Rot     |   1    |             |
@@ -30,6 +30,7 @@ Reichelt Liste comeing soon
 
 
 CC1101 https://de.aliexpress.com/item/32924239954.html
+Taster https://de.aliexpress.com/item/32660690016.html?spm=a2g0s.9042311.0.0.27424c4dqj9wVN
 
 ~8,3 cm Draht als Antenne
 
