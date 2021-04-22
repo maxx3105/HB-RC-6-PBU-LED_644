@@ -53,4 +53,6 @@ Sketch https://github.com/jp112sdl/HB-RC-6-PBU-LED/blob/master/HB-RC-6-PBU-LED.i
 coming soon
 
 # Bilder
-![Vorderseite](https://github.com/maxx3105/)
+![Vorderseite](https://github.com/maxx3105/HB-RC-6-PBU-LED_644/blob/main/HB-RC-6-PBU-LED_644_TOP.png)
+![Rückseite](https://github.com/maxx3105/HB-RC-6-PBU-LED_644/blob/main/HB-RC-6-PBU-LED_644_BOTTOM.png)
+
