@@ -28,8 +28,8 @@ Reichelt Liste comeing soon
 
 #### Sonstiges
 
-
 CC1101 https://de.aliexpress.com/item/32924239954.html
+
 Taster https://de.aliexpress.com/item/32660690016.html?spm=a2g0s.9042311.0.0.27424c4dqj9wVN
 
 ~8,3 cm Draht als Antenne
