@@ -178,9 +178,9 @@ Wire Wire Line
 Wire Wire Line
 	10350 4360 10750 4360
 Text Label 10750 4260 0    50   ~ 0
-TX
-Text Label 10750 4360 0    50   ~ 0
 RX
+Text Label 10750 4360 0    50   ~ 0
+TX
 $Comp
 L power:GND #PWR0106
 U 1 1 5D6E6091
@@ -328,7 +328,7 @@ Wire Wire Line
 Wire Wire Line
 	3130 3290 3390 3290
 Text Label 3390 3290 0    50   ~ 0
-WS2812B_LED_3V3_Lvl
+WS2812B_LED_5V_Lvl
 Wire Wire Line
 	8075 1225 8075 1025
 Connection ~ 8075 1025
@@ -540,7 +540,7 @@ Connection ~ 8805 5975
 Wire Wire Line
 	8805 5975 9205 5975
 Text Label 1740 3290 2    50   ~ 0
-WS2812B_LED_5V_Lvl
+WS2812B_LED_3V3_Lvl
 $Comp
 L MCU_Microchip_ATmega:ATmega644A-AU U1
 U 1 1 60668341
