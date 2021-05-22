@@ -5,22 +5,22 @@
     {
       "Vendor":      "KiCad",
       "Application": "Pcbnew",
-      "Version":     "(5.1.10)-1"
+      "Version":     "(5.1.9)-1"
     },
-    "CreationDate":  "2021-05-22T10:44:24+02:00"
+    "CreationDate":  "2021-05-14T01:46:21+02:00"
   },
   "GeneralSpecs":
   {
     "ProjectId":
     {
-      "Name": "HB-RC-6-PBU-LED",
-      "GUID": "48422d52-432d-4362-9d50-42552d4c4544",
+      "Name": "Netzteil",
+      "GUID": "4e65747a-7465-4696-9c2e-6b696361645f",
       "Revision": "rev?"
     },
     "Size":
     {
-      "X": 50.050,
-      "Y": 50.050
+      "X": 35.050,
+      "Y": 44.050
     },
     "LayerNumber": 2,
     "BoardThickness":  1.600
@@ -32,55 +32,53 @@
       "PadToPad":  0.200,
       "PadToTrack":  0.200,
       "TrackToTrack":  0.200,
-      "MinLineWidth":  0.250,
-      "TrackToRegion":  0.508,
-      "RegionToRegion":  0.508
+      "MinLineWidth":  0.250
     }
   ],
   "FilesAttributes":
   [
     {
-      "Path":  "HB-RC-6-PBU-LED-F_Cu.gbr",
+      "Path":  "Netzteil-F_Cu.gbr",
       "FileFunction":  "Copper,L1,Top",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "HB-RC-6-PBU-LED-B_Cu.gbr",
+      "Path":  "Netzteil-B_Cu.gbr",
       "FileFunction":  "Copper,L2,Bot",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "HB-RC-6-PBU-LED-F_Paste.gbr",
+      "Path":  "Netzteil-F_Paste.gbr",
       "FileFunction":  "SolderPaste,Top",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "HB-RC-6-PBU-LED-B_Paste.gbr",
+      "Path":  "Netzteil-B_Paste.gbr",
       "FileFunction":  "SolderPaste,Bot",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "HB-RC-6-PBU-LED-F_SilkS.gbr",
+      "Path":  "Netzteil-F_SilkS.gbr",
       "FileFunction":  "Legend,Top",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "HB-RC-6-PBU-LED-B_SilkS.gbr",
+      "Path":  "Netzteil-B_SilkS.gbr",
       "FileFunction":  "Legend,Bot",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "HB-RC-6-PBU-LED-F_Mask.gbr",
+      "Path":  "Netzteil-F_Mask.gbr",
       "FileFunction":  "SolderMask,Top",
       "FilePolarity":  "Negative"
     },
     {
-      "Path":  "HB-RC-6-PBU-LED-B_Mask.gbr",
+      "Path":  "Netzteil-B_Mask.gbr",
       "FileFunction":  "SolderMask,Bot",
       "FilePolarity":  "Negative"
     },
     {
-      "Path":  "HB-RC-6-PBU-LED-Edge_Cuts.gbr",
+      "Path":  "Netzteil-Edge_Cuts.gbr",
       "FileFunction":  "Profile",
       "FilePolarity":  "Positive"
     }
