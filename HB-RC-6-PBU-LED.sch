@@ -327,7 +327,7 @@ Wire Wire Line
 	2830 2890 2830 2650
 Wire Wire Line
 	3130 3290 3390 3290
-Text Label 3390 3290 0    50   ~ 0
+Text Label 1740 3290 2    50   ~ 0
 WS2812B_LED_5V_Lvl
 Wire Wire Line
 	8075 1225 8075 1025
@@ -445,7 +445,7 @@ $EndComp
 Text Label 10565 5920 2    50   ~ 0
 MISO
 $Comp
-L myRadioModules:CC1101 U2
+L HB-RC-6-PBU-LED-rescue:CC1101-myRadioModules U2
 U 1 1 60617E2F
 P 9165 2425
 F 0 "U2" H 9190 3114 60  0000 C CNN
@@ -539,7 +539,7 @@ Wire Wire Line
 Connection ~ 8805 5975
 Wire Wire Line
 	8805 5975 9205 5975
-Text Label 1740 3290 2    50   ~ 0
+Text Label 3390 3290 0    50   ~ 0
 WS2812B_LED_3V3_Lvl
 $Comp
 L MCU_Microchip_ATmega:ATmega644A-AU U1
